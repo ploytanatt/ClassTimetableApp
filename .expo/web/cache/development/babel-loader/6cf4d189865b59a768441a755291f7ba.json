@@ -1,0 +1,1 @@
+{"ast":null,"code":"var ip = '192.168.1.8';\nexport { ip };","map":{"version":3,"names":["ip"],"sources":["C:/Users/tanat/Desktop/mobile-project/mobile-project-main/Ip.js"],"sourcesContent":["const ip = '192.168.1.8';\r\n\r\nexport {ip};"],"mappings":"AAAA,IAAMA,EAAE,GAAG,aAAa;AAExB,SAAQA,EAAE"},"metadata":{},"sourceType":"module"}
